@@ -10,4 +10,4 @@
 
 使用方法： 使用Vivado进行行为仿真，使用FPGA开发板进行上板验证
 
-**@Copyright: 何咏哲** 
+**@Copyright: Corle, Matrix** 
